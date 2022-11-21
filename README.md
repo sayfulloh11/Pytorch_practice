@@ -1,2 +1,2 @@
 # Pytorch_practice
-This is simple practice from pytorch.
+You can find practice releted Pytorch
