@@ -1,2 +1,2 @@
 # Pytorch_practice
-You can find practice releted Pytorch
+You can find some practice releted to Pytorch!
